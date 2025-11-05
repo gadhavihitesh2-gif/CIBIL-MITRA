@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="gu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CIBIL Mitra - તમારો સ્કોર એનાલાઇઝ અને સારો કરો</title>
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="CIBIL સ્કોર એનાલાઇઝ અને સુધારણા સેવા. ₹499 માં ફુલ રિપોર્ટ અને એક્સપર્ટ કન્સલ્ટેશન. ગુજરાત આધારિત.">
+    <meta name="keywords" content="CIBIL score, credit repair Gujarat, loan details Gujarati">
+    <!-- Google Analytics (Replace G-XXXXXX with your ID) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXX');
+    </script>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Configure Tailwind to use Inter font (Supports many languages) -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                },
+            },
+        }
+    </script>
+</head>
+<body class="font-sans bg-gray-50 text-gray-900">
+
+    <!-- === પ્રીમિયમ હીરો સેક્શન (નવી ગ્રીન થીમ) === -->
+    <div class="bg-gradient-to-r from-green-700 to-emerald-800 shadow-md">
+        <div class="max-w-4xl mx-auto px-6 py-8">
+            <div class="flex flex-col md:flex-row items-center justify-between">
+                <!-- Logo (Updated for mobile) -->
+                <img src="https://ik.imagekit.io/k7kkjozgj/Gemini_Generated_Image_yxpi8jyxpi8jyxpi%20(1).png?updatedAt=1762372426127" alt="CIBIL Fix Pro લોગો" class="w-24 md:w-32 mb-6 md:mb-0">
+                
+                <!-- Gujarati Introduction -->
+                <div lang="gu" class="text-center md:text-right ml-0 md:ml-6">
+                    <h1 class="text-2xl font-bold text-white mb-2">તમારી CIBIL સંપૂર્ણ માહિતી મેળવો</h1>
+                    <p class="text-base text-gray-200">
+                        તમારો વર્તમાન CIBIL સ્કોર જાણવા, તેને સુધારવા, અને તમારી ચાલુ લોનની વિગતો મેળવવા માટે, કૃપા કરીને નીચેનું ફોર્મ ભરો અને પેમેન્ટ કરો.
+                    </p>
+                    <p class="text-sm text-gray-300 mt-2">
+                        <strong>નોંધ:</strong> આ ચાર્જ (₹499) CIBIL રિપોર્ટ અને એક્સપર્ટ કન્સલ્ટેશન માટે છે.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- === શા માટે અમને પસંદ કરો (ટ્રસ્ટ બિલ્ડર) === -->
+    <div class="max-w-4xl mx-auto px-6 py-12">
+        <h2 class="text-center text-2xl md:text-3xl font-bold text-gray-900 mb-4">તમારા ભરોસાપાત્ર CIBIL પાર્ટનર</h2>
+        <p class="text-center text-lg text-gray-600 mb-10">અમે એક સુરક્ષિત, ઝડપી અને નિષ્ણાત-સંચાલિત પ્રક્રિયા પ્રદાન કરીએ છીએ.</p>
+        
+        <!-- ગુજરાત ઓફિસ માટે નવો વિભાગ -->
+        <div class="flex justify-center items-center text-center text-md font-semibold text-green-800 bg-green-100 p-4 rounded-lg mb-10 shadow-sm max-w-2xl mx-auto">
+            <svg class="w-6 h-6 mr-3 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path></svg>
+            <span>અમારી મુખ્ય ઓફિસ ગુજરાતમાં આવેલી છે, જે તમારા વિશ્વાસનું પ્રતિક છે.</span>
+        </div>
+        <!-- /નવો વિભાગ સમાપ્ત -->
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <!-- Feature 1: નિષ્ણાત વિશ્લેષણ -->
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <!-- Icon -->
+                <svg class="w-12 h-12 text-green-600 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"></path></svg>
+                <h3 class="text-xl font-semibold text-gray-900 mb-2">નિષ્ણાત વિશ્લેષણ</h3>
+                <p class="text-gray-600">અનુભવી નિષ્ણાતો પાસેથી તમારા ક્રેડિટ રિપોર્ટનું વિગતવાર વિશ્લેષણ મેળવો.</p>
+            </div>
+            
+            <!-- Feature 2: ૧૦૦% સુરક્ષિત અને ગોપનીય -->
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <!-- Icon -->
+                <svg class="w-12 h-12 text-green-600 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+                <h3 class="text-xl font-semibold text-gray-900 mb-2">૧૦૦% સુરક્ષિત અને ગોપનીય</h3>
+                <p class="text-gray-600">તમારો ડેટા એન્ડ-ટુ-એન્ડ એન્ક્રિપ્શનથી સુરક્ષિત છે. અમે તમારી ગોપનીયતાનો આદર કરીએ છીએ.</p>
+            </div>
+            
+            <!-- Feature 3: ૨૪-કલાકમાં સંપર્ક -->
+            <div class="bg-white p-6 rounded-lg shadow-md text-center">
+                <!-- Icon -->
+                <svg class="w-12 h-12 text-green-600 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a2 2 0 01-2-2V4a2 2 0 012-2h8a2 2 0 012 2v4z"></path></svg>
+                <h3 class="text-xl font-semibold text-gray-900 mb-2">૨૪-કલાકમાં સંપર્ક</h3>
+                <p class="text-gray-600">સબમિટ કર્યા પછી, અમારી ટીમ ૨૪ કામકાજના કલાકોમાં તમારો સંપર્ક કરશે.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- === ૨-સ્ટેપ એક્શન સેક્શન === -->
+    <div class="max-w-4xl mx-auto px-6 pb-12">
+        <div class="bg-white p-6 md:p-10 rounded-lg shadow-xl">
+            <h2 class="text-center text-2xl md:text-3xl font-bold text-gray-900 mb-4">ફક્ત 2 સરળ સ્ટેપમાં શરૂ કરો</h2>
+            
+            <!-- Progress Bar -->
+            <div class="w-full bg-gray-200 rounded-full h-2 mb-8">
+                <div id="progress-bar" class="bg-green-600 h-2 rounded-full transition-all duration-500" style="width: 50%;"></div>
+            </div>
+
+            <!-- Error Message Box (hidden by default) -->
+            <div id="error-message" class="hidden p-4 bg-red-100 border border-red-400 text-red-700 rounded-md my-4 text-center font-medium">
+                <!-- ભૂલ સામગ્રી JS દ્વારા સેટ કરવામાં આવશે -->
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12">
+                
+                <!-- સ્ટેપ 1: પેમેન્ટ -->
+                <div class="text-center">
+                    <h3 class="text-2xl font-semibold text-green-800 mb-3">સ્ટેપ 1: સુરક્ષિત પેમેન્ટ કરો</h3>
+                    <p class="text-gray-600 mb-4">ફુલ CIBIL રિપોર્ટ + એક્સપર્ટ કન્સલ્ટેશન માટે ₹499 ચૂકવવા QR સ્કેન કરો.</p>
+                    
+                    <img src="https://i.ibb.co/0ZN4Z8g/qr.png" 
+                         alt="UPI QR Code for Payment" 
+                         class="w-56 h-56 mx-auto my-4 rounded-lg border-4 border-white shadow-sm"
+                         onerror="this.src='https://placehold.co/224x224/e9ecef/333?text=Error+Loading+QR'" />
+                    
+                </div>
+                
+                <!-- સ્ટેપ 2: ફોર્મ -->
+                <div>
+                    <h3 class="text-2xl font-semibold text-green-800 mb-3 text-center md:text-left">સ્ટેપ 2: તમારી વિગતો સબમિટ કરો</h3>
+                    <form id="cibil-form" action="https://formspree.io/f/xqagrqqo" method="POST">
+                        
+                        <div class="space-y-4">
+                            <div>
+                                <label for="name" class="block text-sm font-medium text-gray-700">પૂરું નામ <span class="text-red-500">*</span></label>
+                                <input type="text" id="name" name="name" required class="mt-1 p-3 w-full bg-gray-100 border-transparent rounded-md shadow-sm focus:ring-green-600 focus:border-green-600 focus:bg-white">
+                            </div>
+
+                            <div>
+                                <label for="phone" class="block text-sm font-medium text-gray-700">ફોન નંબર <span class="text-red-500">*</span></label>
+                                <input type="tel" id="phone" name="phone" required pattern="[+]?[0-9]{10,12}" title="Enter valid phone (e.g., +919664952108)" class="mt-1 p-3 w-full bg-gray-100 border-transparent rounded-md shadow-sm focus:ring-green-600 focus:border-green-600 focus:bg-white">
+                            </div>
+
+                            <div>
+                                <label for="email" class="block text-sm font-medium text-gray-700">ઈમેલ <span class="text-red-500">*</span></label>
+                                <input type="email" id="email" name="email" required class="mt-1 p-3 w-full bg-gray-100 border-transparent rounded-md shadow-sm focus:ring-green-600 focus:border-green-600 focus:bg-white">
+                            </div>
+
+                            <div>
+                                <label for="cibil" class="block text-sm font-medium text-gray-700">વર્તમાન CIBIL સ્કોર (જો ખબર હોય તો)</label>
+                                <input type="number" id="cibil" name="cibil" min="300" max="900" class="mt-1 p-3 w-full bg-gray-100 border-transparent rounded-md shadow-sm focus:ring-green-600 focus:border-green-600 focus:bg-white">
+                            </div>
+
+                            <div>
+                                <label for="issue" class="block text-sm font-medium text-gray-700">તમારી ક્રેડિટ સમસ્યાનું વર્ણન કરો <span class="text-red-500">*</span></label>
+                                <textarea id="issue" name="issue" rows="4" required placeholder="ઉ.દા., મોડી ચુકવણી, ઉચ્ચ દેવું..." class="mt-1 p-3 w-full bg-gray-100 border-transparent rounded-md shadow-sm focus:ring-green-600 focus:border-green-600 focus:bg-white"></textarea>
+                            </div>
+                        </div>
+
+                        <div class="mt-6 flex items-center">
+                            <input id="paid" name="paid" type="checkbox" required class="h-4 w-4 text-green-600 border-gray-300 rounded focus:ring-green-500">
+                            <label for="paid" class="ml-2 block text-sm text-gray-900">
+                                હું પુષ્ટિ કરું છું કે ₹499 નું પેમેન્ટ કરવામાં આવ્યું છે <span class="text-red-500">*</span>
+                            </label>
+                        </div>
+
+                        <button type="submit" class="mt-6 w-full bg-gradient-to-r from-green-600 to-emerald-700 text-white p-3 border-none rounded-md text-lg font-semibold cursor-pointer shadow-lg hover:shadow-xl hover:from-green-700 transition-all duration-300 transform hover:-translate-y-0.5">
+                            સબમિટ કરો અને એક્સપર્ટ સાથે કનેક્ટ થાઓ
+                        </button>
+
+                        <!-- WhatsApp Button -->
+                        <a href="https://wa.me/919664952108?text=હાય!%20CIBIL%20મિત્રા%20થી%20સંપર્ક:%20મારું%20નામ%20[નામ]%20અને%20ફોન%20[નંબર].%20સેવા%20માટે%20વિગતો%20શેર%20કરો." target="_blank" class="mt-4 inline-block bg-green-600 text-white px-6 py-3 rounded-md font-semibold hover:bg-green-700 transition text-center w-full">
+                            એક્સપર્ટ સાથે વાત કરો (WhatsApp)
+                        </a>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- === ફુટર === -->
+    <footer class="text-center mt-12 pt-8 pb-12 bg-gray-900 text-gray-400">
+        <div class="max-w-4xl mx-auto px-6">
+            <p>સંપર્ક: +91-9664952108 (WhatsApp)</p>
+            <p class="text-xs mt-4">
+                અસ્વીકરણ: અમે એક ખાનગી ક્રેડિટ કન્સલ્ટિંગ સેવા છીએ. અમે CIBIL, ટ્રાન્સયુનિયન, અથવા કોઈપણ સત્તાવાર ક્રેડિટ બ્યુરો નથી. અમે રિપોર્ટ ડેટાના આધારે નિષ્ણાત વિશ્લેષણ અને સુધારણા સેવાઓ પ્રદાન કરીએ છીએ.
+            </p>
+            <p id="copyright" class="text-xs mt-2">&copy; 2025 <span class="font-semibold text-green-300">CIBIL Mitra</span></p>
+        </div>
+    </footer>
+
+    <script>
+        const form = document.getElementById('cibil-form');
+        const paymentCheckbox = document.getElementById('paid');
+        const errorMessageDiv = document.getElementById('error-message');
+        const progressBar = document.getElementById('progress-bar');
+
+        form.addEventListener('submit', function(e) {
+            // નવી સબમિટ પર એરર મેસેજ છુપાવો
+            errorMessageDiv.classList.add('hidden');
+            
+            if (!paymentCheckbox.checked) {
+                e.preventDefault(); // ફોર્મ સબમિટ થતું અટકાવો
+                
+                // કસ્ટમ એરર મેસેજ બતાવો
+                errorMessageDiv.textContent = 'સબમિટ કરતા પહેલા કૃપા કરીને પેમેન્ટની પુષ્ટિ કરો!';
+                errorMessageDiv.classList.remove('hidden');
+                
+                // એરર પર સ્ક્રોલ કરો
+                errorMessageDiv.scrollIntoView({ behavior: 'smooth', block: 'center' });
+
+                // 4 સેકન્ડ પછી મેસેજ છુપાવો
+                setTimeout(() => {
+                    errorMessageDiv.classList.add('hidden');
+                }, 4000);
+            }
+        });
+
+        // જો યુઝર ફોર્મમાં ફેરફાર કરવાનું શરૂ કરે તો એરર છુપાવો
+        form.addEventListener('input', () => {
+            if (!errorMessageDiv.classList.contains('hidden')) {
+                errorMessageDiv.classList.add('hidden');
+            }
+        });
+
+        // Progress Bar Update
+        paymentCheckbox.addEventListener('change', () => {
+            progressBar.style.width = paymentCheckbox.checked ? '100%' : '50%';
+        });
+
+        // Dynamic Copyright Year
+        document.getElementById('copyright').innerHTML = '&copy; ' + new Date().getFullYear() + ' <span class="font-semibold text-green-300">CIBIL Mitra</span>';
+    </script>
+</body>
+</html>
